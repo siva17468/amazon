@@ -1,0 +1,9 @@
+sum of the variables
+
+
+{
+printf(sum of the variables" x=a+b")
+scanf("..."));
+
+}
+
